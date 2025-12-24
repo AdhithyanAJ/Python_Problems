@@ -1,0 +1,21 @@
+"""Takes 5 integers from the user
+Stores them in a list
+Prints:
+The full list
+The sum of elements
+The maximum element
+The minimum element"""
+
+#code
+X = int(input("enter the total number of integers"))
+listt =[]
+total=0
+for i in range(1,X+1):
+    Y = int(input(f"enter the{i}th number"))
+    total = total + Y
+    listt.append(Y)
+print(listt)
+print("sum of the numbers is = ",total)
+listt.sort()
+print("the minimum number is = ",listt[0])
+print("the maximum number is = ",listt[-1])
