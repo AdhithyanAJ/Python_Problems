@@ -8,7 +8,7 @@ da = 10% of basic
 Calculates:
 total_salary = basic + hra + da
 Prints all values clearly"""
-
+#code
 Basic_salary = float(input("enter your basic salary"))
 HRA = Basic_salary*0.2
 DA = Basic_salary*0.1

@@ -5,7 +5,7 @@ Converts it into:
 Hours
 Minutes
 Seconds"""
-
+#code
 time = int(input("enter time in seconds"))
 hour = time//3600
 minutes = (time-(hour*3600))//60
