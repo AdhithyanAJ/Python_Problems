@@ -1,0 +1,9 @@
+"""Takes a string as input
+Prints:
+Total number of characters
+Total number of spaces"""
+
+#code
+X = input("Enter a string:")
+print(len(X))
+print(X.count(" "))

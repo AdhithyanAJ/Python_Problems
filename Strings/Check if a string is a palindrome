@@ -1,0 +1,15 @@
+"""Write a program that:
+Takes a string input
+Ignores spaces
+Ignores case (uppercase/lowercase)
+Prints whether it is a palindrome or not"""
+
+#code
+X = input("Enter a string:")
+X = X.replace(" ","")
+X = X.lower()
+Y = X[::-1]
+if X ==Y:
+    print("Palindrome")
+else:
+    print("Not palindrome")

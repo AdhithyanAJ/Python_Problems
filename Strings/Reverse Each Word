@@ -1,0 +1,12 @@
+"""Write a program that:
+Takes a sentence
+Reverses each word
+Keeps word order same"""
+
+#code
+X = input("Enter a string:")
+Y=X.split(" ")
+reverse = ""
+for word in Y:
+    reverse = reverse + word[::-1] +" "
+print(reverse.strip())
