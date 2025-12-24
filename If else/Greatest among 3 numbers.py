@@ -7,6 +7,7 @@ Prints:
 If all three numbers are equal, print:
 "All numbers are equal" """
 
+#code
 a = int(input("enter the first number"))
 b = int(input("enter the second number"))
 c = int(input("enter the third number"))
