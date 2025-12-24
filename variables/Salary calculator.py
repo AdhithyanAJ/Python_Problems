@@ -1,4 +1,3 @@
-#variables problem 2
 """Salary Breakdown
 Write a program that:
 Takes basic salary

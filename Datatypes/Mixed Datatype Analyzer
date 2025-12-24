@@ -1,0 +1,22 @@
+"""Write a program that:
+Takes three inputs
+Converts them into:
+Integer
+Float
+Boolean
+Prints:
+Value
+Datatype"""
+
+#code
+X = input("enter first input")
+Y = input("enter second input") 
+Z = input("enter third input") 
+
+X = int(X) 
+Y = float(Y) 
+Z = bool(Z) 
+
+print(X, type(X)) 
+print(Y, type(Y)) 
+print(Z, type(Z))

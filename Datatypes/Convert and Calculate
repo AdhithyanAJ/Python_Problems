@@ -1,0 +1,14 @@
+"""Takes two numbers as input (string form)
+Converts them into:
+int
+float
+Prints:
+Int sum
+Float sum"""
+
+#code
+X = input("enter first input")
+Y = input("enter second input")
+
+print(int(X) + int(Y))
+print(float(X) + float(Y))

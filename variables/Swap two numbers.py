@@ -1,4 +1,3 @@
-#variables problem 1
 """Swap Two Numbers
 Write a program that:
 Takes two integers a and b

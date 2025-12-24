@@ -1,4 +1,3 @@
-#if else problem #2
 """Takes three integers as input: a, b, and c
 Prints:
 "a is the largest" if a is greatest

@@ -1,4 +1,3 @@
-#variables problem 3
 """Write a program that:
 Takes total seconds as input
 Converts it into:

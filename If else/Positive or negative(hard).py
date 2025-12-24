@@ -1,4 +1,3 @@
-#if else problem 1
 # take an input and print the conditions as below 
 """Takes an integer n
 If n is:

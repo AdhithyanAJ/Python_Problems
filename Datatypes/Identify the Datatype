@@ -1,0 +1,6 @@
+"""Takes one input
+Prints the datatype of the input using type()"""
+
+#code
+x = input("Enter an input: ")
+print(type(x))

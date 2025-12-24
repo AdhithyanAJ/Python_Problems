@@ -1,4 +1,3 @@
-#if else problem 3
 #Progressive slab problems
 """Takes annual income as input
 Calculates tax based on slabs:
